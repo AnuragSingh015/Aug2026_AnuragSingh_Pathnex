@@ -1,0 +1,14 @@
+What I did Today
+ # I revised Docker and its benefits and it parts which were disscused in the morning session.
+ # I practiced getting the hands on of docker practicle which I learned in today’s session.
+ # Today we attended the session in which previous batch's student shared their journey of getting selected as a DevOps engineer
+
+
+
+
+Tomorrow's Task
+  # I will revise the morning class's content and will do hands on.
+  # I will record the introduction video and will share it
+  # I will go through the previous videos's practicle
+  # I will record a introduction video and will upload to telegram
+
