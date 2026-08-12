@@ -1,0 +1,14 @@
+What I did Today
+ # I revised AWS services which were disscused in the morning session
+ # I practiced the git commands
+ # I was facing issues in some AWS concepts such as -AWS Organisation,landing zone and Control Tower, so then i refer to chatgpt for clearification
+ # 
+
+
+
+
+Tomorrow's Task
+  # I will revise the morning class's content
+  # I will go through the AWS interview question
+  # I will record a introduction video and will upload to telegram
+  # I will give my todays presentation in the evening
