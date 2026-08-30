@@ -1,0 +1,16 @@
+What I did Today
+ # I learned about the SRE, its role and the role of the SRE.
+ # I also learnt about its componenets like-SLI,SLA,SLO,error budget etc .
+ # I also learnt about the difference between the SRE vs Devops.
+
+ 
+
+
+
+
+Tomorrow's Task
+  # I will revise the morning class's content.
+  # I will practice of getting more hands on of Kafka.
+  # I will record the introduction video and will share it over telegram.
+  # I will practice the speaking/communication skill in front of mirror.
+
